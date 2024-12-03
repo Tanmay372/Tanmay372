@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Java and DSA
 - 💞️ I’m looking to collaborate on online programs 
 - 📫 How to reach me - just contact me at my email
-- ⚡ Fun fact:  I love to do work as a team
